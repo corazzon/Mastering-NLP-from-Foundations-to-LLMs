@@ -1,4 +1,4 @@
-# Mastering-NLP-from-Foundations-to-LLMs
+# NLP와 LLM 실전 가이드
 Mastering-NLP-from-Foundations-to-LLMs
 
 ### **Chapter 4**  
