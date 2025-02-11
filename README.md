@@ -1,5 +1,7 @@
 # NLP와 LLM 실전 가이드
-Mastering-NLP-from-Foundations-to-LLMs
+
+다음 도서의 한국어 번역서 입니다.
+* [Mastering NLP from Foundations to LLMs: Apply advanced rule-based techniques to LLMs and solve real-world business problems using Python: Lior Gazit, Meysam Ghaffari: 9781804619186: Amazon.com: Books](https://www.amazon.com/Mastering-NLP-Foundations-LLMs-Techniques/dp/1804619183/)
 
 ### **Chapter 4**  
 
