@@ -5,6 +5,8 @@
 
 <img src='cover.png' width='300'>
 
+* Youtube 영상 목록 : https://bit.ly/hb-nlp-llm-guide
+---
 * ☀️ 한빛미디어 홈페이지: https://www.hanbit.co.kr/store/books/look.php?p_code=B9369633154
 * 🚀 쿠팡 : https://link.coupang.com/a/ch090Z
 * 📚 교보문고: https://product.kyobobook.co.kr/detail/S000215892769
